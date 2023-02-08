@@ -1,9 +1,10 @@
 git clone
 git add
+git commit -m
 git status
-git commit
-git push
-git checkout -b
 git checkout
+git branch
+git checkout -b
+git fetch
+git push
 git pull
-
